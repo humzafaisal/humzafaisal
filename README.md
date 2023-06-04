@@ -1,6 +1,6 @@
 ### <h1 align="center">Hello! 👋, </br> My name is Humza Faisal</h1>
 
-<h3>I am a junior software developer with three years of programming experience. I have experience with C++, Java, & Javascript and am currently working on advancing my understanding of Python and ML/AI Programming applications.</h3>
+<h3>I am a junior software developer with two years of programming experience. I have experience with C++, Java, & Javascript and am currently working on advancing my understanding of Python and ML/AI Programming applications.</h3>
 
 <br/>
 
