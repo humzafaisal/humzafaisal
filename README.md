@@ -19,6 +19,7 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white)
 
 <hr/>
 <br/>
